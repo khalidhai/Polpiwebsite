@@ -1,0 +1,110 @@
+@media screen and (max-width: 520px) {
+    .header-img {
+        width: 70px;
+    }
+    .our-val-ml-6{
+        margin-left: 0%;
+    }
+    
+    .our-val-ml-4{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    #header .logo img {
+        max-height: 60px;
+    }
+    .header-img img{
+		width: 100% !important;
+	}
+    .header-social-links {
+        padding: 0 35px 0 0 !important;
+        margin-top: 0px;
+    }
+    .img-fluid{
+        max-width: 100%;
+    }
+    .mt-5-sm , .mt-6-sm{
+        margin-top:  0%!important;
+    }
+    #hero {
+        height: 50vh !important;
+    }
+    .ourlatest {
+        font-size: 30px !important;
+        white-space: pre;
+    }
+    .padding10 {
+        padding: 10px !important;
+    }
+    .paddingZero {
+        padding: 0px !important;
+    }
+    .textAlignCenter {
+        text-align: center;
+    }
+    h2 {
+        font-size: 26px !important;
+        line-height: 28px !important;
+    }
+    #hero h2 {
+        font-size: 26px !important;
+        line-height: 10px !important;
+        text-align: center !important;
+        margin-bottom: -20px !important;
+    }
+    .marginT50 {
+        margin-top: 50px !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .header-social-links a {
+        width: 80px !important;
+        padding-right: 22px !important;
+        margin-top: 0px;
+    }
+    
+    .header-social-links{
+        margin-top:0px;
+    }
+    #hero .carousel-container{
+        bottom:25%!important;
+        margin-top: 70px!important;
+    }
+    .pt-0{
+        padding-top: 0px!important;
+    }
+    #hero {
+        height: 50vh !important;
+    }
+    .paddingZero {
+        padding: 0px !important;
+    }
+    .accreditation_column {
+        flex: 100% !important;
+        max-width: 100% !important;
+    }
+    .marginT50 {
+        margin-top: 70px !important;
+    }
+    #header .logo img {
+        max-height: 60px;
+    }
+}
+
+@media screen and (max-width:1224px) {
+    #hero {
+        height: 50vh !important;
+    }
+    .paddingZero {
+        padding: 0px !important;
+    }
+}
+@media (min-width: 992px){
+    .offset-lg-1 {
+        margin-left: 3.333333%;
+    }
+}
+.marginT50 {
+    margin-top: 50px !important;
+}
